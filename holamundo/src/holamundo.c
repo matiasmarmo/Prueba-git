@@ -20,4 +20,5 @@ void main(){
         resultado = sumarTres(cinco);
         printf("%d    ", resultado.numero);
         printf("%d", resultado.numeroAnterior);
+        printf("--FIN--");
 }
